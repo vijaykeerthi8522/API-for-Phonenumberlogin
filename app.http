@@ -1,0 +1,7 @@
+###
+POST http://localhost:3000/api/customers/
+Content-Type: application/json
+
+{
+    "phone_number":"6785437890"
+    }
